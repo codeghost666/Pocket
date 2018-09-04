@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1060070644138",
+    "firebase_url": "https://cashmyapps-7d3ec.firebaseio.com",
+    "project_id": "cashmyapps-7d3ec",
+    "storage_bucket": "cashmyapps-7d3ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060070644138:android:fdd543fb1c9739fd",
+        "android_client_info": {
+          "package_name": "com.leaderapps.Cashmyapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060070644138-gdnkjotkr316cm4f2urt9sl5i423pjgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltXNkt0bWAi_UOdF1curAXg1cacV6KJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
